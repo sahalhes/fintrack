@@ -113,6 +113,9 @@ Open an issue with a clear title, steps to reproduce, and expected vs actual beh
 
 GA4 tracking is included for product usage insights only. See [ANALYTICS.md](ANALYTICS.md).
 
+## Todo
+- [ ] AI summary and insights
+
 ## License
 
 This project is licensed under the MIT License.
