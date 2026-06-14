@@ -21,6 +21,7 @@ const Navigation = () => {
     { href: '/add-account', label: 'Add Account', icon: '➕' },
     { href: '/record-balances', label: 'Record Balances', icon: '💰' },
     { href: '/historical', label: 'Historical Tracking', icon: '📈' },
+    { href: '/insight', label: 'Insight', icon: '🧠' },
   ];
 
   const toggleMobileMenu = () => {
